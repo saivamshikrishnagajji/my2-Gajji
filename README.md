@@ -9,7 +9,9 @@ Manali, in **Himachal Pradesh**, India, is a stunning hill station nestled in th
 2. Camping
 3. Trekking
 
-### Food
+## Food
 * Butter Chicken
 * Noodles
 * Paneer Tikka
+
+
